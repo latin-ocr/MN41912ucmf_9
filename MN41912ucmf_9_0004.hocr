@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41912ucmf_9_0004.png"; bbox 0 0 2307 3278; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 521 1719 1154 2091">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 521 1719 1154 2091">
+     <span class='ocr_line' id='line_1_1' title="bbox 521 1719 1154 1863; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 521 1719 1083 1863; x_wconf 75' lang='lat' dir='ltr'>Presewation</span> <span class='ocrx_word' id='word_1_2' title='bbox 1136 1744 1154 1779; x_wconf 95' lang='grc'><strong><em>·</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 570 1917 1147 2091; baseline 0 -32"><span class='ocrx_word' id='word_1_3' title='bbox 570 1917 1070 2091; x_wconf 79' lang='lat' dir='ltr'>Bethlehem,</span> <span class='ocrx_word' id='word_1_4' title='bbox 1123 1943 1147 1982; x_wconf 90' lang='lat'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 647 2271 1154 2992">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 647 2271 1150 2859">
+     <span class='ocr_line' id='line_1_3' title="bbox 647 2271 1147 2455; baseline -0.002 -37"><span class='ocrx_word' id='word_1_5' title='bbox 647 2271 989 2418; x_wconf 80' lang='lat' dir='ltr'>Camere</span> <span class='ocrx_word' id='word_1_6' title='bbox 1022 2271 1147 2455; x_wconf 83' lang='lat' dir='ltr'>Op</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 710 2471 1154 2658; baseline -0.002 -39"><span class='ocrx_word' id='word_1_7' title='bbox 710 2471 1022 2658; x_wconf 79' lang='lat' dir='ltr'>Shirley</span> <span class='ocrx_word' id='word_1_8' title='bbox 1056 2473 1154 2618; x_wconf 97' lang='grc' dir='ltr'>Μ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 686 2671 1150 2992; baseline 0.007 -174.306"><span class='ocrx_word' id='word_1_9' title='bbox 686 2673 1049 2992; x_wconf 79' lang='lat' dir='ltr'>Marilyn</span> <span class='ocrx_word' id='word_1_10' title='bbox 1086 2671 1150 2821; x_wconf 88' lang='lat' dir='ltr'>G</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1158 3278">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1158 3278">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1158 3278; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1158 3278; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
